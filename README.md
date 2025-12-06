@@ -2,7 +2,7 @@
 
 This project builds a monthly macro–financial panel for India (Nifty 50, CPI inflation, RBI repo rate, INR/USD) and estimates ARIMAX models for Nifty 50 returns.
 
-# Objective
+## Objective
 
 To analyze how key macroeconomic variables — inflation, repo rate, and INR/USD exchange rate — influence Nifty index returns, and to develop an ARIMAX forecasting model to study direction, sensitivity, and short-term trend patterns.
 
