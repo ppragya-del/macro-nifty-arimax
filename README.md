@@ -25,12 +25,8 @@ To analyze how key macroeconomic variables — inflation, repo rate, and INR/USD
 
 ## Key Observations
 
-Repo rate exhibited a directional impact on Nifty index returns, where phases of tightening were associated with short-term moderation in index movement, reflecting cautious investor sentiment.
-
-Inflation showed signs of a lagged effect, suggesting that price-level changes gradually influence market confidence and corporate earnings expectations rather than affecting index volatility immediately.
-
-The INR/USD exchange rate indicated a sensitivity pattern, where currency depreciation aligned with negative directional shifts due to concerns around foreign capital flows and import cost pressures.
-
-The ARIMAX model demonstrated a better fit for capturing directional trends compared to a simple baseline model, although forecast magnitude deviations highlight the inherent uncertainty of macro-driven predictions.
-
-The results reinforce that macro variables act as signals rather than standalone predictors, and interpretation works best when combined with broader economic context and policy developments.
+- Repo rate exhibited a directional impact on Nifty index returns, where phases of tightening were associated with short-term moderation in index movement, reflecting cautious investor sentiment.
+- Inflation showed signs of a lagged effect, suggesting that price-level changes gradually influence market confidence and corporate earnings expectations rather than affecting index volatility immediately.
+- The INR/USD exchange rate indicated a sensitivity pattern, where currency depreciation aligned with negative directional shifts due to concerns around foreign capital flows and import cost pressures.
+- The ARIMAX model demonstrated a better fit for capturing directional trends compared to a simple baseline model, although forecast magnitude deviations highlight the inherent uncertainty of macro-driven predictions.
+- The results reinforce that macro variables act as signals rather than standalone predictors, and interpretation works best when combined with broader economic context and policy developments.
